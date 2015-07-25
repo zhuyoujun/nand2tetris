@@ -1,0 +1,7 @@
+https://github.com/cmoylan/Elements-of-Computing-Systems/blob/master/project03/a/RAM8.hdl
+
+https://github.com/ThomasCJY/The_Elements_of_Computing_Systems
+
+http://www.ted.com/talks/shimon_schocken_the_self_organizing_computer_course?language=zh-cn#t-890747
+
+http://nand2tetris-questions-and-answers-forum.32033.n3.nabble.com/
